@@ -1,6 +1,5 @@
-# Healthcare-analytics-project
-Uncovering Patterns in Patient Readmissions, Doctor Effectiveness, and Condition Severity Using SQL
-# 📊 Healthcare Analytics Project  
+#  🏥 Healthcare-analytics-project
+Uncovering Patterns in Patient Readmissions, Doctor Effectiveness, and Condition Severity Using SQL 
 
 ## 📌 Overview  
 This project simulates a **Healthcare Analytics System** using synthetic data.  
@@ -10,12 +9,12 @@ The dataset is generated with Python (`faker` library) and consists of multiple 
 
 ---
 
-## 🏥 Database Schema  
+## Database Schema  
 
 ### **Tables**
 - **Patients** → `patient_id, name, age, gender`  
 - **Admissions** → `admission_id, patient_id, doctor_id, admission_date, discharge_date`  
-- **Doctors** → `doctor_id, name, specialty`  
+- **Doctors** → `medical_conditions, patients, test_results`  
 - **Medical_Conditions** → `condition_id, admission_id, condition`  
 - **Test_Results** → `test_result_id, admission_id, test_name, result`  
 
