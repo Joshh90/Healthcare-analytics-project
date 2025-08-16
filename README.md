@@ -69,6 +69,10 @@ The dashboard consolidates insights into **five key visual areas**:
 ![Data Quality Dashboard](images/data_quality.png)  
 
 ---
+### Main Dashboard  
+![Main Dashboard](images/Dashboard.png)  
+
+---
 
 ## ⚙️ Tech Stack  
 
