@@ -22,11 +22,11 @@ The dataset is generated with Python (`faker` library) and consists of multiple 
 
 ## 🔍 Problem Statements Solved  
 
-1. **Readmission Risk Tracking** – Patients readmitted within 30 days.  
-2. **Diagnostic Success Rate per Doctor** – Doctors with highest % of “Normal” results.  
-3. **Length of Stay by Doctor & Condition** – Avg stay per doctor & condition.  
-4. **Condition Recurrence Analysis** – Recurrence of chronic conditions.  
-5. **Dirty Data Tracking** – Data quality score across tables.  
+1. **Readmission Risk Tracking** – Patients readmitted within 30 days. The total number of re-admission was 167,076. 
+2. **Diagnostic Success Rate per Doctor** – Doctors with highest % of “Normal” results. For example, Dr. Julia Spears had the highest success rate, 34.11% .
+3. **Length of Stay by Doctor & Condition** – Avg stay per doctor & condition. Average length of stay of patients was 9.5days.  
+4. **Condition Recurrence Analysis** – Recurrence of chronic conditions. 62500 re-ocurrence of hypertension case was documeneted. 
+5. **Dirty Data Tracking** – Data quality score across tables. Data quality score was 58%.  
 
 ---
 
